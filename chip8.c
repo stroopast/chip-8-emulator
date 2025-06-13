@@ -1,9 +1,16 @@
+#include <SDL.h>
 #include <stdio.h>
-#include "SDL.h"
+#include <stdlib.h>
 
-int main()
+#define SCREEN_WIDTH 1280
+#define SCREEN_HEIGHT 720
+
+struct Chip8
 {
-	puts("TESTTT!");
-	return 0;
+
 }
 
+int main() 
+{
+	
+}
